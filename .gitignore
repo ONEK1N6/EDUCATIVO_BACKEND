@@ -1,0 +1,4 @@
+# Project exclude paths
+/FRONTED/src/App.jsx
+/FRONTED/src/main.jsx
+/target/
